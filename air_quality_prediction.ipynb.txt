@@ -1,0 +1,21 @@
+# Air Quality Prediction Using Machine Learning
+
+## S5 IT Machine Learning Case Study
+
+### Objective
+
+The objective of this project is to develop a Machine Learning model for predicting Carbon Monoxide (CO) concentration using the UCI Air Quality Dataset.
+
+### Machine Learning Algorithm
+
+Random Forest Regression
+
+### Target Variable
+
+CO(GT) - Carbon Monoxide concentration
+
+### Dataset
+
+UCI Air Quality Dataset
+
+The dataset contains hourly air-quality measurements, pollutant concentrations, sensor measurements, temperature, relative humidity and absolute humidity.
